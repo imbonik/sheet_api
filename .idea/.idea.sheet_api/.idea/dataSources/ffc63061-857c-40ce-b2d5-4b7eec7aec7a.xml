@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="google_docs@localhost">
+  <database-model serializer="dbm" rdbms="MSSQL" format-version="4.9">
+    <root id="1">
+      <ServerVersion>12.0.200</ServerVersion>
+      <ServerType>standalone</ServerType>
+    </root>
+    <database id="2" parent="1" name="google_docs">
+      <ObjectId>5</ObjectId>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </database>
+    <database id="3" parent="1" name="master">
+      <ObjectId>1</ObjectId>
+    </database>
+    <database id="4" parent="1" name="tempdb">
+      <ObjectId>2</ObjectId>
+    </database>
+    <database id="5" parent="1" name="model">
+      <ObjectId>3</ObjectId>
+    </database>
+    <database id="6" parent="1" name="msdb">
+      <ObjectId>4</ObjectId>
+    </database>
+    <schema id="7" parent="2" name="dbo">
+      <ObjectId>1</ObjectId>
+      <IntrospectionTimestamp>2018-08-15.23:52:06.857</IntrospectionTimestamp>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="8" parent="2" name="guest">
+      <ObjectId>2</ObjectId>
+    </schema>
+    <schema id="9" parent="2" name="INFORMATION_SCHEMA">
+      <ObjectId>3</ObjectId>
+    </schema>
+    <schema id="10" parent="2" name="sys">
+      <ObjectId>4</ObjectId>
+    </schema>
+    <schema id="11" parent="2" name="db_owner">
+      <ObjectId>16384</ObjectId>
+    </schema>
+    <schema id="12" parent="2" name="db_accessadmin">
+      <ObjectId>16385</ObjectId>
+    </schema>
+    <schema id="13" parent="2" name="db_securityadmin">
+      <ObjectId>16386</ObjectId>
+    </schema>
+    <schema id="14" parent="2" name="db_ddladmin">
+      <ObjectId>16387</ObjectId>
+    </schema>
+    <schema id="15" parent="2" name="db_backupoperator">
+      <ObjectId>16389</ObjectId>
+    </schema>
+    <schema id="16" parent="2" name="db_datareader">
+      <ObjectId>16390</ObjectId>
+    </schema>
+    <schema id="17" parent="2" name="db_datawriter">
+      <ObjectId>16391</ObjectId>
+    </schema>
+    <schema id="18" parent="2" name="db_denydatareader">
+      <ObjectId>16392</ObjectId>
+    </schema>
+    <schema id="19" parent="2" name="db_denydatawriter">
+      <ObjectId>16393</ObjectId>
+    </schema>
+    <table id="20" parent="7" name="cities">
+      <ObjectId>261575970</ObjectId>
+      <CreatedTimestamp>2018-08-15.12:19:03.100</CreatedTimestamp>
+      <ModifiedTimestamp>2018-08-15.17:31:11.177</ModifiedTimestamp>
+    </table>
+    <table id="21" parent="7" name="users">
+      <ObjectId>245575913</ObjectId>
+      <CreatedTimestamp>2018-08-15.12:18:08.427</CreatedTimestamp>
+      <ModifiedTimestamp>2018-08-15.12:18:08.430</ModifiedTimestamp>
+    </table>
+    <view id="22" parent="7" name="plot_table">
+      <ObjectId>277576027</ObjectId>
+      <CreatedTimestamp>2018-08-15.12:22:47.973</CreatedTimestamp>
+      <ModifiedTimestamp>2018-08-15.23:31:05.447</ModifiedTimestamp>
+    </view>
+    <column id="23" parent="20" name="id">
+      <Position>1</Position>
+      <DataType>tinyint|0s</DataType>
+    </column>
+    <column id="24" parent="20" name="city">
+      <Position>2</Position>
+      <DataType>nvarchar(50 char)|0s</DataType>
+    </column>
+    <column id="25" parent="21" name="user_name">
+      <Position>1</Position>
+      <DataType>nvarchar(50 char)|0s</DataType>
+    </column>
+    <column id="26" parent="21" name="city_id">
+      <Position>2</Position>
+      <DataType>tinyint|0s</DataType>
+    </column>
+    <column id="27" parent="22" name="user_name">
+      <Position>1</Position>
+      <DataType>nvarchar(50 char)|0s</DataType>
+    </column>
+    <column id="28" parent="22" name="city_id">
+      <Position>2</Position>
+      <DataType>tinyint|0s</DataType>
+    </column>
+    <column id="29" parent="22" name="id">
+      <Position>3</Position>
+      <DataType>tinyint|0s</DataType>
+    </column>
+    <column id="30" parent="22" name="city">
+      <Position>4</Position>
+      <DataType>nvarchar(50 char)|0s</DataType>
+    </column>
+  </database-model>
+</dataSource>
