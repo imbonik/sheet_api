@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb79d30-d6e2-48db-912f-d11b46c06fa7" name="Default" comment="" />
+    <list default="true" id="6cb79d30-d6e2-48db-912f-d11b46c06fa7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/dataSources/ffc63061-857c-40ce-b2d5-4b7eec7aec7a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/dataSources/ffc63061-857c-40ce-b2d5-4b7eec7aec7a/storage_v2/_src_/database/google_docs.gXgF7A.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/dataSources/ffc63061-857c-40ce-b2d5-4b7eec7aec7a/storage_v2/_src_/database/google_docs.gXgF7A/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/dataSources/ffc63061-857c-40ce-b2d5-4b7eec7aec7a/storage_v2/_src_/database/google_docs.gXgF7A/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sheet_api/riderModule.iml" beforeDir="false" />
+    </list>
+    <ignored mask=".idea" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,11 +80,10 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sheet_api/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="820">
+            <state relative-caret-position="1887">
               <caret line="111" column="83" selection-start-line="111" selection-start-column="77" selection-end-line="111" selection-end-column="83" />
               <folding>
                 <marker date="1534358251271" expanded="true" signature="6:316" ph="..." />
-                <marker date="1534358251271" expanded="true" signature="340:4563" ph="{...}" />
                 <marker date="1534358251271" expanded="true" signature="360:4556" ph="{...}" />
                 <marker date="1534358251271" expanded="true" signature="687:800" ph="/* wabqX0zA-Tv_3njic7T4hycXOSCR4Op2i5ugknLyMY users ... */" />
                 <marker date="1534358251271" expanded="true" signature="874:1026" ph="{...}" />
@@ -115,7 +128,6 @@
             <state relative-caret-position="255">
               <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
               <folding>
-                <marker date="1534356029015" expanded="true" signature="52:444" ph="{...}" />
                 <marker date="1534356029015" expanded="true" signature="72:440" ph="{...}" />
                 <marker date="1534356029015" expanded="true" signature="132:434" ph="{...}" />
               </folding>
@@ -126,10 +138,10 @@
       <file leaf-file-name="QueryManager.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sheet_api/QueryManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="43" column="61" lean-forward="true" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+            <state relative-caret-position="-170">
+              <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
               <folding>
-                <marker date="1534363146518" expanded="true" signature="6:68" ph="..." />
+                <marker date="1534363146518" expanded="false" signature="6:68" ph="..." />
                 <marker date="1534363146518" expanded="true" signature="91:2306" ph="{...}" />
                 <marker date="1534363146518" expanded="true" signature="116:2302" ph="{...}" />
                 <marker date="1534363146518" expanded="true" signature="160:706" ph="{...}" />
@@ -145,6 +157,11 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="sheet_api.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sheet_api/sheet_api.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="plot_table" pinned="false" current-in-tab="false">
         <entry file="das://ffc63061-857c-40ce-b2d5-4b7eec7aec7a/database/google_docs/schema/dbo/view/plot_table">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -157,7 +174,7 @@
       <file leaf-file-name="SqlDataReader.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/74/6efcf620/SqlDataReader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
+            <state relative-caret-position="493">
               <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
             </state>
           </provider>
@@ -175,17 +192,8 @@
       <file leaf-file-name="SqlCommand.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/73/b7e968df/SqlCommand.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
+            <state relative-caret-position="27489">
               <caret line="1617" column="25" selection-start-line="1617" selection-start-column="25" selection-end-line="1617" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SqlConnection.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/2d/4427678b/SqlConnection.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="200" column="11" selection-start-line="200" selection-start-column="11" selection-end-line="200" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -201,14 +209,18 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/74/6efcf620/SqlDataReader.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/91E0EE06-0F11-4711-AE8F-4B19D1331FF7/1/Google.Apis.Sheets.v4.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/73/b7e968df/SqlCommand.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sheet_api/QueryManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sheet_api/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sheet_api/DBUtils.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sheet_api/DBSQLServerUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sheet_api/QueryManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sheet_api/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sheet_api/DBUtils.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sheet_api/DBSQLServerUtils.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/2d/4427678b/SqlConnection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C3AFB979-8E74-4398-AC38-EE8650B40332/1/Google.Apis.Drive.v3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37B375C2-42F2-4F2D-9544-399E5673F54A/94/440bffb7/Type.cs" root0="SKIP_HIGHLIGHTING" />
@@ -236,15 +248,14 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1930" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -263,6 +274,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,6 +282,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)&#10;MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -314,11 +327,12 @@
       <workItem from="1534179396859" duration="3136000" />
       <workItem from="1534329918729" duration="3069000" />
       <workItem from="1534353862668" duration="7497000" />
+      <workItem from="1534415918685" duration="343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20919000" />
+    <option name="totallyTimeSpent" value="21262000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,6 +345,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -338,13 +353,11 @@
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.35241503" />
-      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32905984" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08926175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31879196" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3291592" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15503356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
@@ -353,8 +366,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3291592" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32905984" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -402,11 +417,124 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sheet_api/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="83" selection-start-line="111" selection-start-column="77" selection-end-line="111" selection-end-column="83" />
+          <folding>
+            <marker date="1534358251271" expanded="true" signature="6:316" ph="..." />
+            <marker date="1534358251271" expanded="true" signature="360:4556" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="687:800" ph="/* wabqX0zA-Tv_3njic7T4hycXOSCR4Op2i5ugknLyMY users ... */" />
+            <marker date="1534358251271" expanded="true" signature="874:1026" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="1083:1487" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="1547:2086" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="1651:2076" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="2162:2378" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="2257:2366" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="2492:4037" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="2656:3792" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="2830:3122" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="2913:3102" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="3000:3080" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="3225:3759" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="3312:3737" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="3397:3567" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="3897:3948" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="4140:4550" ph="{...}" />
+            <marker date="1534358251271" expanded="true" signature="4430:4500" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sheet_api/DBSQLServerUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <marker date="1534354955798" expanded="true" signature="50:544" ph="{...}" />
+            <marker date="1534354955798" expanded="true" signature="79:542" ph="{...}" />
+            <marker date="1534354955798" expanded="true" signature="226:527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sheet_api/DBUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <marker date="1534356029015" expanded="true" signature="72:440" ph="{...}" />
+            <marker date="1534356029015" expanded="true" signature="132:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ffc63061-857c-40ce-b2d5-4b7eec7aec7a/database/google_docs/schema/dbo/view/plot_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/74/6efcf620/SqlDataReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37B375C2-42F2-4F2D-9544-399E5673F54A/94/440bffb7/Type.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/73/b7e968df/SqlCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27489">
+          <caret line="1617" column="25" selection-start-line="1617" selection-start-column="25" selection-end-line="1617" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/2d/4427678b/SqlConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="200" column="11" selection-start-line="200" selection-start-column="11" selection-end-line="200" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ffc63061-857c-40ce-b2d5-4b7eec7aec7a/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sheet_api/QueryManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="61" lean-forward="true" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+          <folding>
+            <marker date="1534363146518" expanded="false" signature="6:68" ph="..." />
+            <marker date="1534363146518" expanded="true" signature="91:2306" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="116:2302" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="160:706" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="317:392" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="424:551" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="571:661" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="776:2296" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="1126:2257" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="1176:2243" ph="{...}" />
+            <marker date="1534363146518" expanded="true" signature="1258:2225" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sheet_api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4080">
           <caret line="240" lean-forward="true" selection-start-line="240" selection-end-line="240" />
           <folding>
             <marker date="1534358251271" expanded="true" signature="6:316" ph="..." />
-            <marker date="1534358251271" expanded="true" signature="340:4563" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="360:4556" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="687:800" ph="/* wabqX0zA-Tv_3njic7T4hycXOSCR4Op2i5ugknLyMY users ... */" />
             <marker date="1534358251271" expanded="true" signature="874:1026" ph="{...}" />
@@ -464,7 +592,6 @@
           <caret line="175" column="4" lean-forward="true" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
           <folding>
             <marker date="1534358251271" expanded="true" signature="6:316" ph="..." />
-            <marker date="1534358251271" expanded="true" signature="340:4563" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="360:4556" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="687:800" ph="/* wabqX0zA-Tv_3njic7T4hycXOSCR4Op2i5ugknLyMY users ... */" />
             <marker date="1534358251271" expanded="true" signature="874:1026" ph="{...}" />
@@ -514,7 +641,6 @@
           <caret line="159" column="45" lean-forward="true" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="64" />
           <folding>
             <marker date="1534358251271" expanded="true" signature="6:316" ph="..." />
-            <marker date="1534358251271" expanded="true" signature="340:4563" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="360:4556" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="687:800" ph="/* wabqX0zA-Tv_3njic7T4hycXOSCR4Op2i5ugknLyMY users ... */" />
             <marker date="1534358251271" expanded="true" signature="874:1026" ph="{...}" />
@@ -561,7 +687,6 @@
           <caret line="157" column="57" selection-start-line="157" selection-start-column="57" selection-end-line="157" selection-end-column="57" />
           <folding>
             <marker date="1534358251271" expanded="true" signature="6:316" ph="..." />
-            <marker date="1534358251271" expanded="true" signature="340:4563" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="360:4556" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="687:800" ph="/* wabqX0zA-Tv_3njic7T4hycXOSCR4Op2i5ugknLyMY users ... */" />
             <marker date="1534358251271" expanded="true" signature="874:1026" ph="{...}" />
@@ -628,7 +753,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/2d/4427678b/SqlConnection.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="3400">
           <caret line="200" column="11" selection-start-line="200" selection-start-column="11" selection-end-line="200" selection-end-column="11" />
         </state>
       </provider>
@@ -642,14 +767,14 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/73/b7e968df/SqlCommand.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
+        <state relative-caret-position="27489">
           <caret line="1617" column="25" selection-start-line="1617" selection-start-column="25" selection-end-line="1617" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03B5EC94-B581-43B4-BBD5-89E1D96E3C91/74/6efcf620/SqlDataReader.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="493">
           <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
         </state>
       </provider>
@@ -666,7 +791,6 @@
         <state relative-caret-position="255">
           <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding>
-            <marker date="1534356029015" expanded="true" signature="52:444" ph="{...}" />
             <marker date="1534356029015" expanded="true" signature="72:440" ph="{...}" />
             <marker date="1534356029015" expanded="true" signature="132:434" ph="{...}" />
           </folding>
@@ -694,11 +818,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sheet_api/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
+        <state relative-caret-position="1887">
           <caret line="111" column="83" selection-start-line="111" selection-start-column="77" selection-end-line="111" selection-end-column="83" />
           <folding>
             <marker date="1534358251271" expanded="true" signature="6:316" ph="..." />
-            <marker date="1534358251271" expanded="true" signature="340:4563" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="360:4556" ph="{...}" />
             <marker date="1534358251271" expanded="true" signature="687:800" ph="/* wabqX0zA-Tv_3njic7T4hycXOSCR4Op2i5ugknLyMY users ... */" />
             <marker date="1534358251271" expanded="true" signature="874:1026" ph="{...}" />
@@ -722,12 +845,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sheet_api/sheet_api.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/sheet_api/QueryManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="43" column="61" lean-forward="true" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+        <state relative-caret-position="-170">
+          <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
           <folding>
-            <marker date="1534363146518" expanded="true" signature="6:68" ph="..." />
+            <marker date="1534363146518" expanded="false" signature="6:68" ph="..." />
             <marker date="1534363146518" expanded="true" signature="91:2306" ph="{...}" />
             <marker date="1534363146518" expanded="true" signature="116:2302" ph="{...}" />
             <marker date="1534363146518" expanded="true" signature="160:706" ph="{...}" />
