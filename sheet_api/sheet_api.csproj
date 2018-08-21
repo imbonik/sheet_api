@@ -71,11 +71,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="User.cs" />
     <Compile Include="DBSQLServerUtils.cs" />
     <Compile Include="DBUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QueryManager.cs" />
+    <Compile Include="City.cs" />
+    <Compile Include="UserCityView.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="client_secret.json">

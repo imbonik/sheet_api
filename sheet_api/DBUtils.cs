@@ -1,20 +1,15 @@
 ﻿using System.Data.SqlClient;
  
  
-namespace sheet_api
-{
-    class DBUtils
-    {
-        public static SqlConnection GetDBConnection()
-        {
-            string datasource = @"localhost";
-            
-            string database = "google_docs";
-            string username = "seesharp";
-            string password = "root";
+namespace sheet_api{
+    static class DbUtils{
+        public static SqlConnection GetDbConnection(){
+            const string datasource = @"localhost";
+            const string database = "google_docs";
+            const string username = "seesharp";
+            const string password = "root";
  
-            return DBSQLServerUtils.GetDBConnection(datasource,  database, username, password);
+            return DbsqlServerUtils.GetDbConnection(datasource,  database, username, password);
         }
     }
- 
 }
